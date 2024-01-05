@@ -1,0 +1,290 @@
+{0: {'id': '25',
+      'label': 'apple'},
+ 1: {'id': '7',
+     'label': 'aquarium_fish'}, 
+ 2: {'id': '85',
+      'label': 'baby'},     
+ 3: {'id': '49',
+      'label': 'bear'},     
+ 4: {'id': '1',
+     'label': 'beaver'},
+ 5: {'id': '37',
+      'label': 'bed'},     
+ 6: {'id': '43',
+      'label': 'bee'},
+ 7: {'id': '44',
+      'label': 'beetle'},     
+ 8: {'id': '109',
+      'label': 'bicycle'},      
+ 9: {'id': '19',
+      'label': 'bottle'},   
+ 10: {'id': '20',
+      'label': 'bowl'},
+ 11: {'id': '86',
+      'label': 'boy'}, 
+ 12: {'id': '55',
+      'label': 'bridge'},      
+ 13: {'id': '110',
+      'label': 'bus'}, 
+ 14: {'id': '45',
+      'label': 'butterfly'},      
+ 15: {'id': '67',
+      'label': 'camel'},
+ 16: {'id': '21',
+      'label': 'can'},      
+ 17: {'id': '56',
+      'label': 'castle'},        
+ 18: {'id': '46',
+      'label': 'caterpillar'},
+ 19: {'id': '68',
+      'label': 'cattle'},      
+ 20: {'id': '38',
+      'label': 'chair'},      
+ 21: {'id': '69',
+      'label': 'chimpanzee'},       
+ 22: {'id': '31',
+      'label': 'clock'},      
+ 23: {'id': '61',
+      'label': 'cloud'},          
+ 24: {'id': '47',
+      'label': 'cockroach'},      
+ 25: {'id': '39',
+      'label': 'couch'},
+ 26: {'id': '79',
+      'label': 'crab'},     
+ 27: {'id': '91',
+      'label': 'crocodile'},
+ 28: {'id': '22',
+      'label': 'cup'},      
+ 29: {'id': '92',
+      'label': 'dinosaur'},      
+ 30: {'id': '2',
+     'label': 'dolphin'},     
+ 31: {'id': '70',
+      'label': 'elephant'},
+ 32: {'id': '8',
+     'label': 'flatfish'},      
+ 33: {'id': '62',
+      'label': 'forest'},
+ 34: {'id': '73',
+      'label': 'fox'},    
+ 35: {'id': '87',
+      'label': 'girl'},
+ 36: {'id': '97',
+      'label': 'hamster'},
+ 37: {'id': '57',
+      'label': 'house'},
+ 38: {'id': '71',
+      'label': 'kangaroo'},      
+ 39: {'id': '32',
+      'label': 'keyboard'},      
+ 40: {'id': '33',
+      'label': 'lamp'},      
+ 41: {'id': '115',
+      'label': 'lawn_mower'},      
+ 42: {'id': '50',
+      'label': 'leopard'},
+ 43: {'id': '51',
+      'label': 'lion'},    
+ 44: {'id': '93',
+      'label': 'lizard'},      
+ 45: {'id': '80',
+      'label': 'lobster'},      
+ 46: {'id': '88',
+      'label': 'man'},     
+ 47: {'id': '103',
+      'label': 'maple_tree'},      
+ 48: {'id': '111',
+      'label': 'motorcycle'},      
+ 49: {'id': '63',
+      'label': 'mountain'},
+ 50: {'id': '98',
+      'label': 'mouse'},      
+ 51: {'id': '26',
+      'label': 'mushroom'},
+ 52: {'id': '104',
+      'label': 'oak_tree'},      
+ 53: {'id': '27',
+      'label': 'oranges'},      
+ 54: {'id': '13',
+      'label': orchid'},
+ 55: {'id': '3',
+     'label': 'otter'},      
+ 56: {'id': '105',
+      'label': 'palm_tree'},      
+ 57: {'id': '28',
+      'label': 'pear'},    
+ 58: {'id': '112',
+      'label': 'pickup_truck'},      
+ 59: {'id': '106',
+      'label': 'pine_tree'},      
+ 60: {'id': '64',
+      'label': 'plain'},       
+ 61: {'id': '23',
+      'label': 'plate'},        
+ 62: {'id': '14',
+      'label': 'poppy'},      
+ 63: {'id': '74',
+      'label': 'porcupine'},
+ 64: {'id': '75',
+      'label': 'possum'},
+ 65: {'id': '99',
+      'label': 'rabbit'},
+ 66: {'id': '76',
+      'label': 'raccoon'},      
+ 67: {'id': '9',
+     'label': 'ray'},
+ 68: {'id': '58',
+      'label': 'road'},
+ 69: {'id': '116',
+      'label': 'rocket'},
+ 70: {'id': '15',
+      'label': 'rose'},
+ 71: {'id': '65',
+      'label': 'sea'},      
+ 72: {'id': '4',
+     'label': 'seal'},
+ 73: {'id': '10',
+     'label': 'shark'},
+ 74: {'id': '100',
+      'label': 'shrew'},   
+ 75: {'id': '77',
+      'label': 'skunk'},       
+ 76: {'id': '59',
+      'label': 'skyscraper'},        
+ 77: {'id': '81',
+      'label': 'snail'},
+ 78: {'id': '94',
+      'label': 'snake'},
+ 79: {'id': '82',
+      'label': 'spider'},      
+ 80: {'id': '101',
+      'label': 'squirrel'},       
+ 81: {'id': '117',
+      'label': 'streetcar'},      
+ 82: {'id': '16',
+      'label': 'sunflower'},
+ 83: {'id': '29',
+      'label': 'sweet_pepper'},
+ 84: {'id': '40',
+      'label': 'table'},
+ 85: {'id': '118',
+      'label': 'tank'},
+ 86: {'id': '34',
+      'label': 'telephone'},
+ 87: {'id': '35',
+      'label': 'television'},   
+ 88: {'id': '52',
+      'label': 'tiger'},
+ 89: {'id': '119',
+      'label': 'tractor'},     
+ 90: {'id': '113',
+      'label': 'train'},      
+ 91: {'id': '11',
+     'label': 'trout'}, 
+ 92: {'id': '17',
+      'label': 'tulip'},      
+ 93: {'id': '95',
+      'label': 'turtle'},              
+ 94: {'id': '41',
+      'label': 'wardrobe'}, 
+ 95: {'id': '5',
+     'label': 'whale'},   
+ 96: {'id': '107',
+      'label': 'willow_tree'}         
+ 97: {'id': '53',
+      'label': 'wolf'},      
+ 98: {'id': '89',
+      'label':' woman'},
+ 99: {'id': '83',
+      'label': 'worm'}}
+
+
+
+
+
+
+
+
+
+   
+      
+    
+      
+      
+
+     
+
+ 
+
+     
+     
+     
+    
+    
+    
+      
+   
+     
+     
+     
+      
+      
+      
+
+     
+
+    
+      
+      
+     
+      
+
+
+
+
+
+
+
+    
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

@@ -1,0 +1,289 @@
+{0: {'id': '07739125-n',
+      'label': 'apple'},
+ 1: {'id': '02732072-n',
+     'label': 'aquarium_fish'},
+ 2: {'id': '09827683-n',
+      'label': 'baby'},
+ 3: {'id': '02131653-n',
+      'label': 'bear'},
+ 4: {'id': '02363005-n',
+     'label': 'beaver'},
+ 5: {'id': '02818832-n',
+      'label': 'bed'},     
+ 6: {'id': '02206856-n',
+      'label': 'bee'},  
+ 7: {'id': '02164464-n',
+      'label': 'beetle'},
+ 8: {'id': '02834778-n',
+      'label': 'bicycle'},
+ 9: {'id': '13765396-n',
+      'label': 'bottle'}, 
+ 10: {'id': '13765531-n',
+      'label': 'bowl'},
+ 11: {'id': '09870926-n',
+      'label': 'boy'},      
+ 12: {'id': '02898711-n',
+      'label': 'bridge'},  
+ 13: {'id': '02924116-n',
+      'label': 'bus'},      
+ 14: {'id': '02274259-n',
+      'label': 'butterfly'},    
+ 15: {'id': '02437136-n',
+      'label': 'camel'},    
+ 16: {'id': '13765990-n',
+      'label': 'can'},    
+ 17: {'id': '03878066-n',
+      'label': 'castle'},
+ 18: {'id': '02309337-n',
+      'label': 'caterpillar'},
+ 19: {'id': '02402425-n',
+      'label': 'cattle'},
+ 20: {'id': '03001627-n',
+      'label': 'chair'},
+ 21: {'id': '02481823-n',
+      'label': 'chimpanzee'},
+ 22: {'id': '03046257-n',
+      'label': 'clock'},
+ 23: {'id': '11439690-n',
+      'label': 'cloud'},
+ 24: {'id': '02233338-n',
+      'label': 'cockroach'},      
+ 25: {'id': '04256520-n',
+      'label': 'couch'},
+ 26: {'id': '01976957-n',
+      'label': 'crab'},
+ 27: {'id': '01697178-n',
+      'label': 'crocodile'},
+ 28: {'id': '13766733-n',
+      'label': 'cup'},
+ 29: {'id': '01699831-n',
+      'label': 'dinosaur'},      
+ 30: {'id': '02581957-n',
+     'label': 'dolphin'},
+ 31: {'id': '02503517-n',
+      'label': 'elephant'},  
+ 32: {'id': '07790400-n',
+     'label': 'flatfish'},      
+ 33: {'id': '08438533-n',
+      'label': 'forest'},      
+ 34: {'id': '02118333-n',
+      'label': 'fox'},      
+ 35: {'id': '10129825-n',
+      'label': 'girl'}, 
+ 36: {'id': '02342885-n',
+      'label': 'hamster'}, 
+ 37: {'id': '03544360-n',
+      'label': 'house'}, 
+ 38: {'id': '01877134-n',
+      'label': 'kangaroo'},      
+ 39: {'id': '03085013-n',
+      'label': 'keyboard'},   
+ 40: {'id': '03636248-n',
+      'label': 'lamp'},      
+ 41: {'id': '03649909-n',
+      'label': 'lawn_mower'},      
+ 42: {'id': '02128385-n',
+      'label': 'leopard'},      
+ 43: {'id': '02129165-n',
+      'label': 'lion'},      
+ 44: {'id': '01674464-n',
+      'label': 'lizard'},   
+ 45: {'id': '01982650-n',
+      'label': 'lobster'},      
+ 46: {'id': '10287213-n',
+      'label': 'man'},      
+ 47: {'id': '12752205-n',
+      'label': 'maple_tree'},      
+ 48: {'id': '03790512-n',
+      'label': 'motorcycle'},      
+ 49: {'id': '09359803-n',
+      'label': 'mountain'},      
+ 50: {'id': '02330245-n',
+      'label': 'mouse'},      
+ 51: {'id': '07734744-n',
+      'label': 'mushroom'},      
+ 52: {'id': '12268918-n',
+      'label': 'oak_tree'},      
+ 53: {'id': '07747607-n',
+      'label': 'orange'},      
+ 54: {'id': '12058630-n',
+      'label': orchid'},            
+ 55: {'id': '14765785-n',
+     'label': 'otter'},
+ 56: {'id': '13656075-n',
+      'label': 'palm_tree'},     
+ 57: {'id': '07767847-n',
+      'label': 'pear'},     
+ 58: {'id': '03930630-n',
+      'label': 'pickup_truck'},     
+ 59: {'id': '11608885-n',
+      'label': 'pine_tree'},    
+ 60: {'id': '09393605-n',
+      'label': 'plain'},      
+ 61: {'id': '13768850-n',
+      'label': 'plate'},      
+ 62: {'id': '11900569-n',
+      'label': 'poppy'},      
+ 63: {'id': '02346627-n',
+      'label': 'porcupine'},    
+ 64: {'id': '01874928-n',
+      'label': 'possum'},      
+ 65: {'id': '02324045-n',
+      'label': 'rabbit'},      
+ 66: {'id': '02508021-n',
+      'label': 'raccoon'},      
+ 67: {'id': '01495701-n',
+     'label': 'ray'}, 
+ 68: {'id': '04096066-n',
+      'label': 'road'}, 
+ 69: {'id': '04232902-n',
+      'label': 'rocket'}, 
+ 70: {'id': '04971313-n',
+      'label': 'rose'}, 
+ 71: {'id': '09426788-n',
+      'label': 'sea'},      
+ 72: {'id': '14766040-n',
+     'label': 'seal'},
+ 73: {'id': '01482330-n',
+     'label': 'shark'},     
+ 74: {'id': '01891633-n',
+      'label': 'shrew'},     
+ 75: {'id': '02445715-n',
+      'label': 'skunk'},     
+ 76: {'id': '04233124-n',
+      'label': 'skyscraper'},     
+ 77: {'id': '01944390-n',
+      'label': 'snail'},   
+ 78: {'id': '01726692-n',
+      'label': 'snake'},
+ 79: {'id': '01772222-n',
+      'label': 'spider'},      
+ 80: {'id': '14766189-n',
+      'label': 'squirrel'},      
+ 81: {'id': '04335435-n',
+      'label': 'streetcar'},      
+ 82: {'id': '11978233-n',
+      'label': 'sunflower'},      
+ 83: {'id': '12901264-n',
+      'label': 'sweet_pepper'},      
+ 84: {'id': '04379243-n',
+      'label': 'table'},      
+ 85: {'id': '13770529-n',
+      'label': 'tank '},   
+ 86: {'id': '04401088-n',
+      'label': 'telephone'},
+ 87: {'id': '04404412-n',
+      'label': 'television'},      
+ 88: {'id': '02129604-n',
+      'label': 'tiger'},   
+ 89: {'id': '04465666-n',
+      'label': 'tractor'},      
+ 90: {'id': '04468476-n',
+      'label': 'train'},    
+ 91: {'id': '02537085-n',
+     'label': 'trout'},      
+ 92: {'id': '12454159-n',
+      'label': 'tulip'},  
+ 93: {'id': '01662784-n',
+      'label': 'turtle'},      
+ 94: {'id': '04550184-n',
+      'label': 'wardrobe'},      
+ 95: {'id': '02062744-n',
+     'label': 'whale'},
+ 96: {'id': '04584794-n',
+      'label': 'willow_tree'},
+ 97: {'id': '02114100-n',
+      'label': 'wolf'},
+ 98: {'id': '10787470-n',
+      'label':' woman'},
+ 99: {'id': '01922303-n',
+      'label': 'worm'}}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+   
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
